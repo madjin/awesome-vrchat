@@ -2,11 +2,11 @@
 
 Originally posted By akalink on 15 September 2018 [here](http://vrchat.wikidot.com/tutorial:avatars:unity-upload-tutorial)
 
-1. [Setting up Unity]()
-2. [Importing Avatars]()
-3. [Setting up Avatars for Upload]()
-4. [Texture and Shaders]()
-5. [Uploading your Avatar]()
+1. [Setting up Unity](https://github.com/madjin/awesome-vrchat/blob/master/guides/intro-avatars.md#1-setting-up-unity)
+2. [Importing Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/intro-avatars.md#2-importing-avatars)
+3. [Setting up Avatars for Upload](https://github.com/madjin/awesome-vrchat/blob/master/guides/intro-avatars.md#3-setting-up-avatars-for-upload)
+4. [Texture and Shaders](https://github.com/madjin/awesome-vrchat/blob/master/guides/intro-avatars.md#4-texture-and-shaders)
+5. [Uploading your Avatar](https://github.com/madjin/awesome-vrchat/blob/master/guides/intro-avatars.md#5-uploading-your-avatar)
 
 ## 1. Setting up Unity
 
