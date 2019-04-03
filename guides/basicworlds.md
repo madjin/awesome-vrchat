@@ -4,7 +4,7 @@ Original outline by CyanLaser posted here: <http://vrchat.wikidot.com/worlds:beg
 
 ## Prerequisites
 
-- Have a VRChat account with upload privileges. See trust system for more information: <https://docs.vrchat.com/docs/vrchat-safety-and-trust-system>
+- Have a VRChat account with upload privileges. <https://vrchat.com/register>
 - Download and install [Unity 2017.4.15f1](https://unity3d.com/get-unity/download/archive) - Make sure you click on "2017.x", then find "2017.4.15
 - Download the VRChat SDK: <http://vrchat.com/download/sdk>
 
