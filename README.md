@@ -18,8 +18,9 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Tupper's VRChat Tutorials](https://www.youtube.com/channel/UCVxjI7B8uhcKqj75nVkm_oA) - Youtube channel with tutorials for VRChat
 - [Creating Content for VRChat on Oculus Quest](https://docs.vrchat.com/docs/creating-content-for-the-oculus-quest) - **Official** guides for making cross-platform VRC content
   - [Setting up Unity for creating Quest Content](https://docs.vrchat.com/docs/setting-up-unity-for-creating-quest-content) - Read about how to set up Unity for creating Quest content.
-  - [Quest content optimization](https://docs.vrchat.com/docs/quest-content-optimization) - Read about how to optimize your content properly for Quest.
+  - [Quest Content Optimization](https://docs.vrchat.com/docs/quest-content-optimization) - Read about how to optimize your content properly for Quest.
   - [Cross-platform setup](https://docs.vrchat.com/docs/cross-platform-setup) - Read about some of the limitations you'll need to keep in mind while creating content for Quest.
+- [Silent Cel Shading Shader](https://gitlab.com/s-ilent/SCSS) - Shaders for Unity for cel shading with several guides
 
 ---
 
@@ -61,6 +62,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 Here is a list of free tools for creators to download and use on the side of VRChat to expand your creativity!
 
 - [Unity 2017.4.15f1](https://unity3d.com/unity/qa/lts-releases) - The version of Unity that VRchat uses with its SDK
+  - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html) - Helps you optimize your game by analyzing performance
+    - [Introduction to the Profiler](https://learn.unity.com/tutorial/introduction-to-the-profiler) - Introduction to the profiler and its basic sections
 - [Blender3D](https://www.blender.org/2-8/) - Powerful open source 3D modeling engine
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
   - [Useful Addons for Blender 2.8](https://youtu.be/aTDF94CU5wc) - Great addons with links in the description
@@ -69,3 +72,12 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source streaming and recording program
   - [How to Stream Oculus Quest gameplay](https://www.youtube.com/watch?v=Ora7OrQHwEs) - Use OBS and ADB to record/stream Quest
+
+---
+
+## To-Do
+
+- [x] Update with Quest tutorial links
+- [ ] Finish the homekit tutorial write-up
+- [ ] Implement documentation site generator
+- [ ] Port content from the wikidot to markdown 
