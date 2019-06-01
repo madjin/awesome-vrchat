@@ -9,7 +9,8 @@ One-stop shop for people interested in developing content for VRchat. For all th
 - [VRC prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
 - [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
-- [VRCMods](https://vrcmods.com) - Largest collection of community created VRchat content
+- [VRCMods](https://vrcmods.com) -  Unofficial resource for community created VRchat content
+- [VRcat](https://vrcat.club) - Unofficial, community-run forum focusing on VRChat
 
 ## Tutorials
 
@@ -65,6 +66,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html) - Helps you optimize your game by analyzing performance
     - [Introduction to the Profiler](https://learn.unity.com/tutorial/introduction-to-the-profiler) - Introduction to the profiler and its basic sections
 - [Blender3D](https://www.blender.org/2-8/) - Powerful open source 3D modeling engine
+  - [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin) - Shorten steps needed to import and optimize models into VRChat
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
   - [Useful Addons for Blender 2.8](https://youtu.be/aTDF94CU5wc) - Great addons with links in the description
 - [MagicaVoxel](https://ephtracy.github.io) - Free to use voxel editor, great for world building or avatars
