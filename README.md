@@ -9,7 +9,6 @@ One-stop shop for people interested in developing content for VRchat. For all th
 - [VRC prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
 - [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
-- [VRCMods](https://vrcmods.com) -  Unofficial resource for community created VRchat content
 - [VRcat](https://vrcat.club) - Unofficial, community-run forum focusing on VRChat
 
 ## Tutorials
