@@ -19,8 +19,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Tupper's VRChat Tutorials](https://www.youtube.com/channel/UCVxjI7B8uhcKqj75nVkm_oA) - Youtube channel with tutorials for VRChat
 - [Creating Content for VRChat on Oculus Quest](https://docs.vrchat.com/docs/creating-content-for-the-oculus-quest) - **Official** guides for making cross-platform VRC content
   - [Setting up Unity for creating Quest Content](https://docs.vrchat.com/docs/setting-up-unity-for-creating-quest-content) - Read about how to set up Unity for creating Quest content.
-  - [Quest Content Optimization](https://docs.vrchat.com/docs/quest-content-optimization) - Read about how to optimize your content properly for Quest.
-  - [Cross-platform setup](https://docs.vrchat.com/docs/cross-platform-setup) - Read about some of the limitations you'll need to keep in mind while creating content for Quest.
+  - [Quest Content Optimization](https://docs.vrchat.com/docs/quest-content-optimization) - How to optimize your content properly for Quest.
+  - [Cross-platform setup](https://docs.vrchat.com/docs/cross-platform-setup) - Limitations you'll need to keep in mind while creating content for Quest.
 - [Silent Cel Shading Shader](https://gitlab.com/s-ilent/SCSS) - Shaders for Unity for cel shading with several guides
 - [Blender Guru](https://www.youtube.com/user/AndrewPPrice) - Blender tutorials and general artist advice
 - [20+ Styles of 3D Modeling in 20 Minutes](https://www.youtube.com/watch?v=DeHasEMCzcc) - Mostly Blender tips, tad bit of Zbrush
