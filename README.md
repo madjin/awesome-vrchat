@@ -51,6 +51,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Porting PC avatars to Quest](https://www.youtube.com/watch?v=qVHYs3CsiyU) - 	VRChat tutorial by Rantis on making Quest avatars
 - [Quest avatar optimization for MMDs](https://www.youtube.com/watch?v=vK5gVkRXU1I) - How to port your MMD avatars over
 - [How (Not) to make your avatar Quest compatible](https://www.youtube.com/watch?v=NBysgz_ob9I) - An alternative guide for achieving Quest compatibility
+- [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
 
 
 ---
@@ -68,7 +69,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Detailed Building Modeling](https://www.youtube.com/watch?v=22ZOvCv6lRU) - Creating custom buildings in Blender - Lazy Tutorials
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free high quality HDRIs for everyone
 - [Texture Haven](https://texturehaven.com/) - 100% Free textures for everyone
-
 
 
 ---
