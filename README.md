@@ -22,7 +22,10 @@ These tutorials will help you get started with making worlds and avatars in VRch
   - [Cross-platform setup](https://docs.vrchat.com/docs/cross-platform-setup) - Limitations you'll need to keep in mind while creating content for Quest.
 - [Silent Cel Shading Shader](https://gitlab.com/s-ilent/SCSS) - Shaders for Unity for cel shading with several guides
 - [Blender Guru](https://www.youtube.com/user/AndrewPPrice) - Blender tutorials and general artist advice
+- [100 Blender 2.8 tips](https://youtu.be/_9dEqM3H31g) - Tips and tricks for Blender 2.8
+- [Create hair in Blender in 5 minutes](https://youtu.be/BqWYgrXw7Jk) - Easiest way to create hair in Blender
 - [20+ Styles of 3D Modeling in 20 Minutes](https://www.youtube.com/watch?v=DeHasEMCzcc) - Mostly Blender tips, tad bit of Zbrush
+- [IanHubert Tutorials](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) - Amazing lazy tutorials for learning Blender
 
 ---
 
@@ -44,7 +47,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Avatar Creation Tips](https://vrchat.fandom.com/wiki/Avatar_Creation) - Various tips and guides for customized avatars from a fan wiki
 - [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
 - [Weight Paint in 5 Mins](https://www.youtube.com/watch?v=rG82fogtuCg) - Tutorial for Blender 2.8 on weight painting
-
+- [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
 
 **Quest**
 
@@ -112,7 +115,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Low-poly Shader](https://github.com/pavelkouril/unity-lowpoly-shader)
 - [WaterShader |  PanningOutline |  TextureOverlay | DistanceColorSwap | ScanLine](https://github.com/synlogic/Syns-Unity-Shaders)
 - [Genesis Hair Shader](http://standsurestudio.com/genesishair/)
-
+- [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
 
 ---
 
