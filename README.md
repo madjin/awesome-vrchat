@@ -26,6 +26,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Create hair in Blender in 5 minutes](https://youtu.be/BqWYgrXw7Jk) - Easiest way to create hair in Blender
 - [20+ Styles of 3D Modeling in 20 Minutes](https://www.youtube.com/watch?v=DeHasEMCzcc) - Mostly Blender tips, tad bit of Zbrush
 - [IanHubert Tutorials](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) - Amazing lazy tutorials for learning Blender
+- [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
+
 
 ---
 
@@ -105,7 +107,12 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 ### Udon
 
+- [Getting started with Udon](https://ask.vrchat.com/t/getting-started-with-udon/80) - **Official** and best place to start
 - [Contextual Buttons](https://www.youtube.com/watch?v=01a5qO60qlo) - Breakdown of a more complex usage of buttons by Vowgan
+- [Basic Buttons](https://www.youtube.com/watch?v=GWv3zloRWY4) - Getting a simple button toggle working by Vowgan
+- [Jumping and PlayerMods](https://www.youtube.com/watch?v=OventaglGCY) - Jumping and modifying the player's movement speed by Vowgan
+- [Udon playground](https://github.com/jetdog8808/Udon-playground) - personal experiments by the great jetdog8808
+  - [udon update 1](https://www.youtube.com/watch?v=F1RaRcawpdE&feature=youtu.be) - video of jetdog8808's experiments
 
 ---
 
