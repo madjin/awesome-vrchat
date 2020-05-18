@@ -57,7 +57,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Quest avatar optimization for MMDs](https://www.youtube.com/watch?v=vK5gVkRXU1I) - How to port your MMD avatars over
 - [How (Not) to make your avatar Quest compatible](https://www.youtube.com/watch?v=NBysgz_ob9I) - An alternative guide for achieving Quest compatibility
 - [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
-
+- [Easy Quest Switch](https://github.com/JordoVR/EasyQuestSwitch) - Automate changes to components within a scene
+- [Make Your Game Run on Quest (GDC)](https://youtu.be/3T--5SdLdjE) - Tips on getting the most out of the Quest hardware
 
 ---
 
@@ -102,6 +103,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [Intel Graphics Perfomance Analyzers](https://software.intel.com/en-us/gpa) - Get the drawcalls in real time
 - [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene
 - [Materialize](http://boundingboxsoftware.com/materialize/) - Turn single textures into PBR maps
+- [VRWorld Toolkit](https://github.com/SudoOne/VRWorldToolkit) - Unity Editor extension to make making worlds easier 
+- [Multi-user Blender plugin](https://multi-user.readthedocs.io/en/latest/index.html) - Collaborate real-time in Blender
 
 ---
 
