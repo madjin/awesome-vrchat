@@ -75,7 +75,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Detailed Building Modeling](https://www.youtube.com/watch?v=22ZOvCv6lRU) - Creating custom buildings in Blender - Lazy Tutorials
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free high quality HDRIs for everyone
 - [Texture Haven](https://texturehaven.com/) - 100% Free textures for everyone
-
+- [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 
 ---
 
