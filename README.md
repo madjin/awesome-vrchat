@@ -76,6 +76,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free high quality HDRIs for everyone
 - [Texture Haven](https://texturehaven.com/) - 100% Free textures for everyone
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
+- [Virtual Production Assets](https://github.com/gm3/vTuber-Virtual-Production-Studio-Assets) - vTuber Virtual Production Assets for Unity
 
 ---
 
