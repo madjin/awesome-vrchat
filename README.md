@@ -98,6 +98,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Meshroom](https://alicevision.github.io/#meshroom) - Open source photogrammetry software, easy 3D models
   - [How to 3D photoscan](https://www.youtube.com/watch?v=k4NTf0hMjtY) - Photogrammetry tutorial for meshroom and Blender
 - [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
+- [Dust3D](https://dust3d.org/) - Cross-platform open-source modeling software
 - [SUVA](https://github.com/Guribo/SUVA/wiki/About) - Turn your VRChat avatar into a Vtuber for use on Twitch
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source streaming and recording program
   - [How to Stream Oculus Quest gameplay](https://www.youtube.com/watch?v=Ora7OrQHwEs) - Use OBS and ADB to record/stream Quest
@@ -118,6 +119,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Jumping and PlayerMods](https://www.youtube.com/watch?v=OventaglGCY) - Jumping and modifying the player's movement speed by Vowgan
 - [Udon playground](https://github.com/jetdog8808/Udon-playground) - personal experiments by the great jetdog8808
   - [udon update 1](https://www.youtube.com/watch?v=F1RaRcawpdE&feature=youtu.be) - video of jetdog8808's experiments
+- [Udon Toolkit](https://github.com/orels1/UdonToolkit) - Purpose-built Udon Behaviours and tools to make your own
 
 ---
 
