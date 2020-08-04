@@ -151,7 +151,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Soundbible](http://soundbible.com/) - Good place to find quick sound effects for free
 - [Sketchfab](https://sketchfab.com/feed) - Tons of downloadable 3D models and marketplace
 - [Artstation](https://www.artstation.com/marketplace) - Resources for artists and marketplace
-- [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets 
+- [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets
+- [Booth.pm](https://booth.pm/en/search/VRChat) - Indie marketplace with huge selection of goods and tools for VRChat 
 - [Lowlypoly](https://lowlypoly.com/) - Low poly 3d models and game textures, many are free
 
 ---
