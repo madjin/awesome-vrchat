@@ -50,6 +50,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
 - [Weight Paint in 5 Mins](https://www.youtube.com/watch?v=rG82fogtuCg) - Tutorial for Blender 2.8 on weight painting
 - [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
+- [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
 
 **Quest**
 
