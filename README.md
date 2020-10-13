@@ -76,6 +76,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Detailed Building Modeling](https://www.youtube.com/watch?v=22ZOvCv6lRU) - Creating custom buildings in Blender - Lazy Tutorials
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free high quality HDRIs for everyone
 - [Texture Haven](https://texturehaven.com/) - 100% Free textures for everyone
+- [C4Dcenter](https://c4dcenter.com/material-library/) - Free 4K resolution PBR materials
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 - [Zulubo Sounds](https://github.com/zulubo/Zulubo-Sounds) - Free MIT License sound effects
 - [Virtual Production Assets](https://github.com/gm3/vTuber-Virtual-Production-Studio-Assets) - vTuber Virtual Production Assets for Unity
