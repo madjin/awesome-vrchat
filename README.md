@@ -90,6 +90,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Unity 2018.4.20f1](https://docs.vrchat.com/docs/current-unity-version) - The version of Unity that VRchat uses with its SDK
   - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html) - Helps you optimize your game by analyzing performance
     - [Introduction to the Profiler](https://learn.unity.com/tutorial/introduction-to-the-profiler) - Introduction to the profiler and its basic sections
+- [CyanEmu](https://github.com/CyanLaser/CyanEmu) - VRChat client emulator in Unity, works with SDK2 and SDK3
 - [Blender3D](https://www.blender.org/2-8/) - Powerful open source 3D modeling engine
   - [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin) - Shorten steps needed to import and optimize models into VRChat
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
