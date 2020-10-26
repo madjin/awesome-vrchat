@@ -52,6 +52,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
 - [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
 - [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
+- [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity
 
 **Quest**
 
@@ -141,6 +142,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [WaterShader |  PanningOutline |  TextureOverlay | DistanceColorSwap | ScanLine](https://github.com/synlogic/Syns-Unity-Shaders)
 - [Genesis Hair Shader](http://standsurestudio.com/genesishair/)
 - [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
+- [ParticleCloud shaders](https://github.com/lukis101/ParticleCloudVRC) - Interactable shader-based particle system for VRChat/Unity
+- [Shaders](https://github.com/kayteh/shaders) - Big mishmash of reworked, original, and mixed shaders.
 
 ---
 
