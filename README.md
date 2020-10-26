@@ -51,6 +51,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Weight Paint in 5 Mins](https://www.youtube.com/watch?v=rG82fogtuCg) - Tutorial for Blender 2.8 on weight painting
 - [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
 - [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
+- [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
 
 **Quest**
 
@@ -123,6 +124,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Udon playground](https://github.com/jetdog8808/Udon-playground) - personal experiments by the great jetdog8808
   - [udon update 1](https://www.youtube.com/watch?v=F1RaRcawpdE&feature=youtu.be) - video of jetdog8808's experiments
 - [Udon Toolkit](https://github.com/orels1/UdonToolkit) - Purpose-built Udon Behaviours and tools to make your own
+- [Haptic Slider and Switch](https://twitter.com/Yodokor0/status/1317352332175134722) - Udon script to add haptics to sliders and buttons
 
 ---
 
