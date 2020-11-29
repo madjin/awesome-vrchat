@@ -113,6 +113,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Materialize](http://boundingboxsoftware.com/materialize/) - Turn single textures into PBR maps
 - [VRWorld Toolkit](https://github.com/SudoOne/VRWorldToolkit) - Unity Editor extension to make making worlds easier 
 - [Multi-user Blender plugin](https://multi-user.readthedocs.io/en/latest/index.html) - Collaborate real-time in Blender
+- [Momoma Tools](https://github.com/momoma-null/MomomaTools) - Unity extension tools created by momoma 
+- [Nara's Unity Tools](https://github.com/Naraenda/NarasUnityTools) - Tools, specifically for the creation of (performant) avatars for VRChat and ChilloutVR
 
 ---
 
@@ -144,6 +146,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
 - [ParticleCloud shaders](https://github.com/lukis101/ParticleCloudVRC) - Interactable shader-based particle system for VRChat/Unity
 - [Shaders](https://github.com/kayteh/shaders) - Big mishmash of reworked, original, and mixed shaders.
+- [Hair with Anisotropy](https://gitlab.com/s-ilent/hair-with-anisotropy) - Transparent hair shader for realistic hair made by s-ilent
+- [Fake lights](https://gitlab.com/s-ilent/fake-lights) - Adds fake lighting and volumetric fog to the area made by s-ilent
+- [Skyprobe Fog](https://gitlab.com/s-ilent/skyprobe-fog) - Area fog that uses the reflection probe to create fake atmospheric scattering
 
 ---
 
