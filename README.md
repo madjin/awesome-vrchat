@@ -27,7 +27,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [20+ Styles of 3D Modeling in 20 Minutes](https://www.youtube.com/watch?v=DeHasEMCzcc) - Mostly Blender tips, tad bit of Zbrush
 - [IanHubert Tutorials](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) - Amazing lazy tutorials for learning Blender
 - [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
-
+- [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
 
 ---
 
