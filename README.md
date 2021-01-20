@@ -28,6 +28,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [IanHubert Tutorials](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) - Amazing lazy tutorials for learning Blender
 - [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
 - [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
+- [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
+
 
 ---
 
@@ -53,6 +55,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
 - [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
 - [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity
+- [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
+- [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
 
 **Quest**
 
@@ -62,6 +66,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
 - [Easy Quest Switch](https://github.com/JordoVR/EasyQuestSwitch) - Automate changes to components within a scene
 - [Make Your Game Run on Quest (GDC)](https://youtu.be/3T--5SdLdjE) - Tips on getting the most out of the Quest hardware
+- [VRCQuestTools](https://booth.pm/ja/items/2436054) - Convert Avatar for Quest
 
 ---
 
@@ -128,6 +133,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [udon update 1](https://www.youtube.com/watch?v=F1RaRcawpdE&feature=youtu.be) - video of jetdog8808's experiments
 - [Udon Toolkit](https://github.com/orels1/UdonToolkit) - Purpose-built Udon Behaviours and tools to make your own
 - [Haptic Slider and Switch](https://twitter.com/Yodokor0/status/1317352332175134722) - Udon script to add haptics to sliders and buttons
+- [VRChat 8ball](https://github.com/Terri00/vrc8ball) - Udon 8 ball pool game / physics engine
+- [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
 
 ---
 
