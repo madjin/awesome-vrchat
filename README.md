@@ -55,6 +55,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
 - [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
 - [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity
+- [VRC Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor
 - [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
 
