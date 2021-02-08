@@ -121,6 +121,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Multi-user Blender plugin](https://multi-user.readthedocs.io/en/latest/index.html) - Collaborate real-time in Blender
 - [Momoma Tools](https://github.com/momoma-null/MomomaTools) - Unity extension tools created by momoma 
 - [Nara's Unity Tools](https://github.com/Naraenda/NarasUnityTools) - Tools, specifically for the creation of (performant) avatars for VRChat and ChilloutVR
+- [Join modifier and shapes](https://github.com/llealloo/join-modifiers-and-shapes) - Join blender objects that contain modifiers and shape keys into a single object
 
 ---
 
@@ -136,6 +137,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Haptic Slider and Switch](https://twitter.com/Yodokor0/status/1317352332175134722) - Udon script to add haptics to sliders and buttons
 - [VRChat 8ball](https://github.com/Terri00/vrc8ball) - Udon 8 ball pool game / physics engine
 - [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
+- [Hyakuashi Udon Motion Recorder HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-) - Makes HumanoidAnimation from recorded motion via log file
 
 ---
 
@@ -157,6 +159,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Hair with Anisotropy](https://gitlab.com/s-ilent/hair-with-anisotropy) - Transparent hair shader for realistic hair made by s-ilent
 - [Fake lights](https://gitlab.com/s-ilent/fake-lights) - Adds fake lighting and volumetric fog to the area made by s-ilent
 - [Skyprobe Fog](https://gitlab.com/s-ilent/skyprobe-fog) - Area fog that uses the reflection probe to create fake atmospheric scattering
+- [Crispy Foliage](https://gitlab.com/s-ilent/crispy-foliage) - Plants that blow in the wind
 
 ---
 
