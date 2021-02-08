@@ -160,6 +160,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Fake lights](https://gitlab.com/s-ilent/fake-lights) - Adds fake lighting and volumetric fog to the area made by s-ilent
 - [Skyprobe Fog](https://gitlab.com/s-ilent/skyprobe-fog) - Area fog that uses the reflection probe to create fake atmospheric scattering
 - [Crispy Foliage](https://gitlab.com/s-ilent/crispy-foliage) - Plants that blow in the wind
+- [orels1 shaders](https://github.com/orels1/orels1-Unity-Shaders) - Unity BIRP Shaders of varied quality
+
 
 ---
 
