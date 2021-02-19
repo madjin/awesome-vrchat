@@ -67,7 +67,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
 - [Easy Quest Switch](https://github.com/JordoVR/EasyQuestSwitch) - Automate changes to components within a scene
 - [Make Your Game Run on Quest (GDC)](https://youtu.be/3T--5SdLdjE) - Tips on getting the most out of the Quest hardware
-- [VRCQuestTools](https://booth.pm/ja/items/2436054) - Convert Avatar for Quest
+- [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) - Convert Avatar for Quest
 
 ---
 
