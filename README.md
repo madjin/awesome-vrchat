@@ -103,7 +103,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin) - Shorten steps needed to import and optimize models into VRChat
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
   - [Useful Addons for Blender 2.8](https://youtu.be/aTDF94CU5wc) - Great addons with links in the description
-- [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
+- [Virtual Productions VRChat](https://github.com/designio360/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
 - [Mixamo](https://www.mixamo.com/) - Rapidly create, rig, and animate game-ready characters all in one place
 - [MagicaVoxel](https://ephtracy.github.io) - Free to use voxel editor, great for world building or avatars
 - [Meshroom](https://alicevision.github.io/#meshroom) - Open source photogrammetry software, easy 3D models
