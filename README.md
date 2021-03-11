@@ -122,6 +122,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Momoma Tools](https://github.com/momoma-null/MomomaTools) - Unity extension tools created by momoma 
 - [Nara's Unity Tools](https://github.com/Naraenda/NarasUnityTools) - Tools, specifically for the creation of (performant) avatars for VRChat and ChilloutVR
 - [Join modifier and shapes](https://github.com/llealloo/join-modifiers-and-shapes) - Join blender objects that contain modifiers and shape keys into a single object
+- [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 
 ---
 
