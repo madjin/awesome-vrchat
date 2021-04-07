@@ -181,6 +181,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets
 - [Booth.pm](https://booth.pm/en/search/VRChat) - Indie marketplace with huge selection of goods and tools for VRChat 
 - [Lowlypoly](https://lowlypoly.com/) - Low poly 3d models and game textures, many are free
+- [Małopolska’s Virtual Museums](https://sketchfab.com/WirtualneMuzeaMalopolski) - 1,000 cultural heritage 3D models launched to the public domain
 
 ---
 
