@@ -175,13 +175,17 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Blendswap](https://www.blendswap.com/) - Models, some may need cleanup
 - [Freesound](https://freesound.org/) - Audio, a lot needs cleanup
 - [3dtextures](https://3dtextures.me/) - Free seamless textures with PBR maps
+- [cc0textures](https://cc0textures.com/) - CC0 PBR Materials For Anyone And Any Purpose
 - [Soundbible](http://soundbible.com/) - Good place to find quick sound effects for free
+- [Sound archive](https://sonniss.com/gameaudiogdc) - Over 150GB of free sound effects, royalty-free and commercially usable
 - [Sketchfab](https://sketchfab.com/feed) - Tons of downloadable 3D models and marketplace
 - [Artstation](https://www.artstation.com/marketplace) - Resources for artists and marketplace
 - [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets
 - [Booth.pm](https://booth.pm/en/search/VRChat) - Indie marketplace with huge selection of goods and tools for VRChat 
 - [Lowlypoly](https://lowlypoly.com/) - Low poly 3d models and game textures, many are free
 - [Małopolska’s Virtual Museums](https://sketchfab.com/WirtualneMuzeaMalopolski) - 1,000 cultural heritage 3D models launched to the public domain
+- [Game Art Cheatsheet](https://techartaid.com/cheatsheet/) - Most common glitches in game art and how to solve them
+- [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
 
 ---
 
