@@ -103,6 +103,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin) - Shorten steps needed to import and optimize models into VRChat
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
   - [Useful Addons for Blender 2.8](https://youtu.be/aTDF94CU5wc) - Great addons with links in the description
+  - [Mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
 - [Mixamo](https://www.mixamo.com/) - Rapidly create, rig, and animate game-ready characters all in one place
 - [MagicaVoxel](https://ephtracy.github.io) - Free to use voxel editor, great for world building or avatars
@@ -123,6 +124,10 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Nara's Unity Tools](https://github.com/Naraenda/NarasUnityTools) - Tools, specifically for the creation of (performant) avatars for VRChat and ChilloutVR
 - [Join modifier and shapes](https://github.com/llealloo/join-modifiers-and-shapes) - Join blender objects that contain modifiers and shape keys into a single object
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
+- [Discord2VRC](https://github.com/acertainbluecat/Discord2VRC) - Discord bot and Web server for dynamically loading images uploaded to discord into VRChat worlds
+- [SmartTexture](https://github.com/s-ilent/SmartTexture) - Unity tool to pack texture channels into a single texture.
+
+
 
 ---
 
@@ -139,6 +144,10 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat 8ball](https://github.com/Terri00/vrc8ball) - Udon 8 ball pool game / physics engine
 - [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
 - [Hyakuashi Udon Motion Recorder HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-) - Makes HumanoidAnimation from recorded motion via log file
+- [Skipping Stones](https://github.com/jokerIsPunk/skipping-stones/releases) - Stones that skip on the surface of water when thrown.
+- [Double Jump](https://gitlab.com/-/snippets/2125069) - Snippet for a simple double jump system
+- [VRCBilliards: Community Edition](https://github.com/FairlySadPanda/vrcbce/releases/tag/1.1.0) - A pool table for VRChat SDK3 worlds
+- [Udon Audio Bank](https://gitlab.com/s-ilent/udon-audio-bank) - Plays a random sound from a "bank" intermittently
 
 ---
 
@@ -162,7 +171,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Skyprobe Fog](https://gitlab.com/s-ilent/skyprobe-fog) - Area fog that uses the reflection probe to create fake atmospheric scattering
 - [Crispy Foliage](https://gitlab.com/s-ilent/crispy-foliage) - Plants that blow in the wind
 - [orels1 shaders](https://github.com/orels1/orels1-Unity-Shaders) - Unity BIRP Shaders of varied quality
-
+- [glsl2hlsl](https://github.com/pema99/glsl2hlsl) - WIP shadertoy to Unity converter
+- [Shader knowledge](https://github.com/pema99/shader-knowledge) - Trying to document obscure technical VRChat knowledge abotu shaders
 
 ---
 
@@ -186,6 +196,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Małopolska’s Virtual Museums](https://sketchfab.com/WirtualneMuzeaMalopolski) - 1,000 cultural heritage 3D models launched to the public domain
 - [Game Art Cheatsheet](https://techartaid.com/cheatsheet/) - Most common glitches in game art and how to solve them
 - [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
+- [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
+- [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
 
 ---
 
