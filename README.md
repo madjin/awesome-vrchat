@@ -58,6 +58,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [VRC Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor
 - [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
+- [Avatar Image Reader](https://github.com/Miner28/AvatarImageReader/) - Encode chars from Internet as images for VRChat Udon avatars
 
 **Quest**
 
@@ -126,7 +127,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [Discord2VRC](https://github.com/acertainbluecat/Discord2VRC) - Discord bot and Web server for dynamically loading images uploaded to discord into VRChat worlds
 - [SmartTexture](https://github.com/s-ilent/SmartTexture) - Unity tool to pack texture channels into a single texture.
-
+- [Blender addon substance painter](https://github.com/DigiKrafting/blender_addon_substance_painter) - Pipeline/Workflow import/export for Substance Painter.
 
 
 ---
@@ -173,6 +174,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [orels1 shaders](https://github.com/orels1/orels1-Unity-Shaders) - Unity BIRP Shaders of varied quality
 - [glsl2hlsl](https://github.com/pema99/glsl2hlsl) - WIP shadertoy to Unity converter
 - [Shader knowledge](https://github.com/pema99/shader-knowledge) - Trying to document obscure technical VRChat knowledge abotu shaders
+- [liltoon](https://github.com/lilxyzw/lilToon) - Feature-rich shaders for avatars
 
 ---
 
@@ -198,6 +200,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
 - [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
 - [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
+- [Smithsonian open access](https://www.si.edu/openaccess) - Tons of CC0 models and content
 
 ---
 
