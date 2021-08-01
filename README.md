@@ -142,7 +142,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [udon update 1](https://www.youtube.com/watch?v=F1RaRcawpdE&feature=youtu.be) - video of jetdog8808's experiments
 - [Udon Toolkit](https://github.com/orels1/UdonToolkit) - Purpose-built Udon Behaviours and tools to make your own
 - [Haptic Slider and Switch](https://twitter.com/Yodokor0/status/1317352332175134722) - Udon script to add haptics to sliders and buttons
-- [VRChat 8ball](https://git.codel1417.xyz/gitea/codel1417/vrc8ball) - Udon 8 ball pool game / physics engine
+- [VRChat 8ball](https://github.com/FairlySadPanda/vrcbce) - Udon 8 ball pool game / physics engine
 - [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
 - [Hyakuashi Udon Motion Recorder HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-) - Makes HumanoidAnimation from recorded motion via log file
 - [Skipping Stones](https://github.com/jokerIsPunk/skipping-stones/releases) - Stones that skip on the surface of water when thrown.
