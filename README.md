@@ -1,4 +1,4 @@
-# awesome-vrchat
+# awesome-vrchat [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 One-stop shop for people interested in developing content for VRchat. For all the **official** documentation please go here: **<https://docs.vrchat.com/docs>**
 
