@@ -29,7 +29,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
 - [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
 - [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
-
+- [Game Assets in Blender](https://www.youtube.com/watch?v=j3G9zn4cu-U) - A complete workflow video tutorial for modeling game assets in Blender
+- [2uts](https://2uts.com/) - Website that has thousands of free video tutorials
 
 ---
 
@@ -39,6 +40,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Whitelisted Avatar Components](https://docs.vrchat.com/docs/whitelisted-avatar-components) - **Official** documentation for components you can use with avatars
 - [Avatar Optimizing Tips](https://docs.vrchat.com/docs/avatar-optimizing-tips) - **Official** documentation on optimization
 - [Beginner guide to Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/avatars/intro-avatars.md) - Intro to Unity and uploading your first avatar
+- [Silent's free avatar model guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models) - covers the best freely available, properly licensed avatars + licenses Silent found
 - [Sprite/Pixel Avatars without Blender](https://youtu.be/IsYfTway-Y4) - Learn to make Doom sprite avatars
 - [Blender to Unity avatars](https://docs.google.com/document/d/1W5KFa_aszCMrJaFD8mb9a-GHYO4X4S9M63GjM4UwuEw/pub) - Tutorial by Mechlai on importing avatars from Blender
 - [Cat's Blender Plugin Overview](https://www.youtube.com/watch?v=0gu0kEj2xwA) - Youtube video showing Blender plugin to save time making avatars
@@ -59,6 +61,8 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
 - [Avatar Image Reader](https://github.com/Miner28/AvatarImageReader/) - Encode chars from Internet as images for VRChat Udon avatars
+- [AvatarModifyTools](https://github.com/HhotateA/AvatarModifyTools) - Tools to help you modify your VRChat avatar in Unity
+  - [TextureModifyTool](https://hhotatea.booth.pm/items/3103973) - Booth page of tools to help modify avatar
 
 **Quest**
 
@@ -88,7 +92,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [C4Dcenter](https://c4dcenter.com/material-library/) - Free 4K resolution PBR materials
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 - [Zulubo Sounds](https://github.com/zulubo/Zulubo-Sounds) - Free MIT License sound effects
-- [Virtual Production Assets](https://github.com/gm3/vTuber-Virtual-Production-Studio-Assets) - vTuber Virtual Production Assets for Unity
+- [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
 
 ---
 
@@ -105,12 +109,11 @@ Here is a list of free tools for creators to download and use on the side of VRC
   - [Material Blender addon](https://vrcat.club/threads/material-combiner-blender-addon-2-0-3-2.2255/) - Get lower draw calls by combining textures without quality loss
   - [Useful Addons for Blender 2.8](https://youtu.be/aTDF94CU5wc) - Great addons with links in the description
   - [Mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
-- [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
 - [Mixamo](https://www.mixamo.com/) - Rapidly create, rig, and animate game-ready characters all in one place
+  - [Mixamo in Blender](https://substance3d.adobe.com/plugins/mixamo-in-blender/) - One click solution to create an IK rig and bake animations
 - [MagicaVoxel](https://ephtracy.github.io) - Free to use voxel editor, great for world building or avatars
 - [Meshroom](https://alicevision.github.io/#meshroom) - Open source photogrammetry software, easy 3D models
   - [How to 3D photoscan](https://www.youtube.com/watch?v=k4NTf0hMjtY) - Photogrammetry tutorial for meshroom and Blender
-- [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
 - [Dust3D](https://dust3d.org/) - Cross-platform open-source modeling software
 - [SUVA](https://github.com/Guribo/SUVA/wiki/About) - Turn your VRChat avatar into a Vtuber for use on Twitch
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source streaming and recording program
@@ -124,11 +127,14 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Momoma Tools](https://github.com/momoma-null/MomomaTools) - Unity extension tools created by momoma 
 - [Nara's Unity Tools](https://github.com/Naraenda/NarasUnityTools) - Tools, specifically for the creation of (performant) avatars for VRChat and ChilloutVR
 - [Join modifier and shapes](https://github.com/llealloo/join-modifiers-and-shapes) - Join blender objects that contain modifiers and shape keys into a single object
-- [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [Discord2VRC](https://github.com/acertainbluecat/Discord2VRC) - Discord bot and Web server for dynamically loading images uploaded to discord into VRChat worlds
 - [SmartTexture](https://github.com/s-ilent/SmartTexture) - Unity tool to pack texture channels into a single texture.
 - [Blender addon substance painter](https://github.com/DigiKrafting/blender_addon_substance_painter) - Pipeline/Workflow import/export for Substance Painter.
-
+- [Skinned Mesh Armature Remapper](https://github.com/CascadianWorks/Skinned-Mesh-Armature-Remapper) - Unity Editor utility that can transfer skinned mesh renderers from one armature to another
+- [Convex Collider Creator](https://justinvoke.com/game-assets/convex-collider-creator/) - Tool for crafting convex mesh colliders in the Unity Engine
+- [VRC FriendPlus](https://github.com/aplulu/vrc-friendplus) - Browser extensions to make VRChat Web a little more useful
+- [glTFast](https://github.com/atteneder/glTFast) - Efficient glTF 3D import / export library for Unity
+- [Tree It](https://www.evolved-software.com/treeit/treeit) - Free 3D tree generator with adjustable LOD
 
 ---
 
@@ -149,6 +155,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Double Jump](https://gitlab.com/-/snippets/2125069) - Snippet for a simple double jump system
 - [VRCBilliards: Community Edition](https://github.com/FairlySadPanda/vrcbce/releases/tag/1.1.0) - A pool table for VRChat SDK3 worlds
 - [Udon Audio Bank](https://gitlab.com/s-ilent/udon-audio-bank) - Plays a random sound from a "bank" intermittently
+- [harunatab](https://booth.pm/en/items/3288277) - Fully functional tablet for VRChat SDK3 (UdonSharp)
+- [JiwaMirror](https://booth.pm/en/items/3386147) - Mirror prefab with interesting shader effect
+- [Smart Mirror](https://booth.pm/en/items/3292060) - Smart mirror which can turn on when you walk up to it
 
 ---
 
@@ -175,6 +184,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [glsl2hlsl](https://github.com/pema99/glsl2hlsl) - WIP shadertoy to Unity converter
 - [Shader knowledge](https://github.com/pema99/shader-knowledge) - Trying to document obscure technical VRChat knowledge abotu shaders
 - [liltoon](https://github.com/lilxyzw/lilToon) - Feature-rich shaders for avatars
+- [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 
 ---
 
@@ -201,6 +211,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
 - [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
 - [Smithsonian open access](https://www.si.edu/openaccess) - Tons of CC0 models and content
+- [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
+
 
 ---
 
