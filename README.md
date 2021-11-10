@@ -158,6 +158,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [harunatab](https://booth.pm/en/items/3288277) - Fully functional tablet for VRChat SDK3 (UdonSharp)
 - [JiwaMirror](https://booth.pm/en/items/3386147) - Mirror prefab with interesting shader effect
 - [Smart Mirror](https://booth.pm/en/items/3292060) - Smart mirror which can turn on when you walk up to it
+- [Udon Surf](https://github.com/IgbarVonSquid/Surf_Udon) - A prefab used to make VRChat surf maps
 
 ---
 
