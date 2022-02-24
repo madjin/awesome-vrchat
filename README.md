@@ -10,6 +10,7 @@ One-stop shop for people interested in developing content for VRchat. For all th
 - [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
 - [VRcat](https://vrcat.club) - Unofficial, community-run forum focusing on VRChat
+- [VRCLibrary](https://vrclibrary.com/wiki/) - A wiki for VRChat creators to learn, share and collaborate. Anyone can contribute!
 
 ## Tutorials
 
@@ -135,6 +136,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRC FriendPlus](https://github.com/aplulu/vrc-friendplus) - Browser extensions to make VRChat Web a little more useful
 - [glTFast](https://github.com/atteneder/glTFast) - Efficient glTF 3D import / export library for Unity
 - [Tree It](https://www.evolved-software.com/treeit/treeit) - Free 3D tree generator with adjustable LOD
+- [Blender-xatlas](https://github.com/s-ilent/blender-xatlas) - Rough add-on for Blender allowing you to use Xatlas to unwrap and pack your uvs
 
 ---
 
@@ -159,6 +161,15 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [JiwaMirror](https://booth.pm/en/items/3386147) - Mirror prefab with interesting shader effect
 - [Smart Mirror](https://booth.pm/en/items/3292060) - Smart mirror which can turn on when you walk up to it
 - [Udon Surf](https://github.com/IgbarVonSquid/Surf_Udon) - A prefab used to make VRChat surf maps
+- [UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all UdonBehaviours in your Unity scene
+
+---
+
+### OSC
+
+- [VRChat OSC for Avatars](https://hello.vrchat.com/blog/vrchat-osc-for-avatars) - Announcement post and [github](https://github.com/vrchat-community/osc) links to discussions / bug reports
+- [OSCKeyboard](https://github.com/ShadowForests/OSCKeyboard) - Enable keyboard typing in VRChat using KillFrenzy's VRC Avatar Keyboard
+- [node-osc](https://github.com/vnoise/node-osc) - very basic OSC client (so far) implementation based heavily on pyOSC
 
 ---
 
@@ -186,6 +197,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Shader knowledge](https://github.com/pema99/shader-knowledge) - Trying to document obscure technical VRChat knowledge abotu shaders
 - [liltoon](https://github.com/lilxyzw/lilToon) - Feature-rich shaders for avatars
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
+- [LTCGI](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm
 
 ---
 
