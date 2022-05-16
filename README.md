@@ -202,7 +202,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 ---
 
 ## Resources
-
+- [Jinxxy Marketplace](https://jinxxy.com/market) - Tons of free and paid VRChat models & assets from independent creators
 - [Nobiax Assets](https://assetstore.unity.com/publishers/4986) - Ton of free assets of high quality from Unity assetstore
 - [Polygonal Mind Assets](https://www.polygonalmind.com/assets.html) - Free to use low-poly 3D models
 - [Open Game Art](https://opengameart.org/) - Free to use assets including models and sprites
