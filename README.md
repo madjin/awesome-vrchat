@@ -101,7 +101,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 
 Here is a list of free tools for creators to download and use on the side of VRChat to expand your creativity!
 
-- [Unity 2018.4.20f1](https://docs.vrchat.com/docs/current-unity-version) - The version of Unity that VRchat uses with its SDK
+- [Unity](https://docs.vrchat.com/docs/current-unity-version) - The version of Unity that VRchat uses with its SDK
   - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html) - Helps you optimize your game by analyzing performance
     - [Introduction to the Profiler](https://learn.unity.com/tutorial/introduction-to-the-profiler) - Introduction to the profiler and its basic sections
 - [CyanEmu](https://github.com/CyanLaser/CyanEmu) - VRChat client emulator in Unity, works with SDK2 and SDK3
