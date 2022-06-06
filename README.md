@@ -163,6 +163,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Udon Surf](https://github.com/IgbarVonSquid/Surf_Udon) - A prefab used to make VRChat surf maps
 - [UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all UdonBehaviours in your Unity scene
 - [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets for professional stage lighting
+- [Udon Splines](https://github.com/BocuD/Udon-Catmull-Rom-Splines) - A simple spline system that works with Udon
 
 ---
 
