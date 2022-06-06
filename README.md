@@ -162,6 +162,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Smart Mirror](https://booth.pm/en/items/3292060) - Smart mirror which can turn on when you walk up to it
 - [Udon Surf](https://github.com/IgbarVonSquid/Surf_Udon) - A prefab used to make VRChat surf maps
 - [UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all UdonBehaviours in your Unity scene
+- [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets for professional stage lighting
 
 ---
 
@@ -207,6 +208,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Polygonal Mind Assets](https://www.polygonalmind.com/assets.html) - Free to use low-poly 3D models
 - [Open Game Art](https://opengameart.org/) - Free to use assets including models and sprites
   - [Photo resources for making textures](https://opengameart.org/content/photo-resources-for-making-textures) - Make seamless textures
+- [Ultimate Stylized nature](https://www.patreon.com/posts/67157089) - 60+  Lowpoly nature assets, with seamless textures and normal maps
 - [Blendswap](https://www.blendswap.com/) - Models, some may need cleanup
 - [Freesound](https://freesound.org/) - Audio, a lot needs cleanup
 - [3dtextures](https://3dtextures.me/) - Free seamless textures with PBR maps
@@ -225,7 +227,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
 - [Smithsonian open access](https://www.si.edu/openaccess) - Tons of CC0 models and content
 - [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
-
+- [VRChat API](https://github.com/vrchatapi) - Unofficial VRChat documentation and collection of libraries
 
 ---
 
