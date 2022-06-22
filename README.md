@@ -206,30 +206,32 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 ## Resources
 
+- [3dtextures](https://3dtextures.me/) - Free seamless textures with PBR maps
+- [Artstation](https://www.artstation.com/marketplace) - Resources for artists and marketplace
+- [Blendswap](https://www.blendswap.com/) - Models, some may need cleanup
+- [Booth.pm](https://booth.pm/en/search/VRChat) - Indie marketplace with huge selection of goods and tools for VRChat 
+- [cc0textures](https://cc0textures.com/) - CC0 PBR Materials For Anyone And Any Purpose
+- [Freesound](https://freesound.org/) - Audio, a lot needs cleanup
+- [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets
+- [Game Art Cheatsheet](https://techartaid.com/cheatsheet/) - Most common glitches in game art and how to solve them
+- [Kenney Assets](https://kenney.nl/assets) - Free game assets, no strings attached
+- [Lowlypoly](https://lowlypoly.com/) - Low poly 3d models and game textures, many are free
+- [Małopolska’s Virtual Museums](https://sketchfab.com/WirtualneMuzeaMalopolski) - 1,000 cultural heritage 3D models launched to the public domain
 - [Nobiax Assets](https://assetstore.unity.com/publishers/4986) - Ton of free assets of high quality from Unity assetstore
-- [Polygonal Mind Assets](https://www.polygonalmind.com/assets.html) - Free to use low-poly 3D models
 - [Open Game Art](https://opengameart.org/) - Free to use assets including models and sprites
   - [Photo resources for making textures](https://opengameart.org/content/photo-resources-for-making-textures) - Make seamless textures
-- [Ultimate Stylized nature](https://www.patreon.com/posts/67157089) - 60+  Lowpoly nature assets, with seamless textures and normal maps
-- [Blendswap](https://www.blendswap.com/) - Models, some may need cleanup
-- [Freesound](https://freesound.org/) - Audio, a lot needs cleanup
-- [3dtextures](https://3dtextures.me/) - Free seamless textures with PBR maps
-- [cc0textures](https://cc0textures.com/) - CC0 PBR Materials For Anyone And Any Purpose
+- [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
+- [Polygonal Mind Assets](https://www.polygonalmind.com/assets.html) - Free to use low-poly 3D models
+- [Polyhaven](https://polyhaven.com/) - Public 3D Asset Library
 - [Soundbible](http://soundbible.com/) - Good place to find quick sound effects for free
 - [Sound archive](https://sonniss.com/gameaudiogdc) - Over 150GB of free sound effects, royalty-free and commercially usable
 - [Sketchfab](https://sketchfab.com/feed) - Tons of downloadable 3D models and marketplace
-- [Artstation](https://www.artstation.com/marketplace) - Resources for artists and marketplace
-- [Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Mega list of free assets
-- [Booth.pm](https://booth.pm/en/search/VRChat) - Indie marketplace with huge selection of goods and tools for VRChat 
-- [Lowlypoly](https://lowlypoly.com/) - Low poly 3d models and game textures, many are free
-- [Małopolska’s Virtual Museums](https://sketchfab.com/WirtualneMuzeaMalopolski) - 1,000 cultural heritage 3D models launched to the public domain
-- [Game Art Cheatsheet](https://techartaid.com/cheatsheet/) - Most common glitches in game art and how to solve them
-- [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
-- [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
-- [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
 - [Smithsonian open access](https://www.si.edu/openaccess) - Tons of CC0 models and content
-- [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
+- [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
+- [Ultimate Stylized nature](https://www.patreon.com/posts/67157089) - 60+  Lowpoly nature assets, with seamless textures and normal maps
 - [VRChat API](https://github.com/vrchatapi) - Unofficial VRChat documentation and collection of libraries
+- [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
+- [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
 
 ---
 
