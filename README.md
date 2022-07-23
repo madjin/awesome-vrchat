@@ -233,6 +233,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat API](https://github.com/vrchatapi) - Unofficial VRChat documentation and collection of libraries
 - [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
 - [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
+- [The Base Mesh](https://thebasemesh.com/) - 100% free CC0 asset library updated weekly
 
 ---
 
