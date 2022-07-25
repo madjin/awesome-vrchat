@@ -64,6 +64,11 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Avatar Image Reader](https://github.com/Miner28/AvatarImageReader/) - Encode chars from Internet as images for VRChat Udon avatars
 - [AvatarModifyTools](https://github.com/HhotateA/AvatarModifyTools) - Tools to help you modify your VRChat avatar in Unity
   - [TextureModifyTool](https://hhotatea.booth.pm/items/3103973) - Booth page of tools to help modify avatar
+- [IK 2.0 11 point set up](https://aleasevr.gumroad.com/l/ik2rig) - Set up rig in blender ready to go for fitting your modelling to for IK 2.0
+- [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) - A tool for managing playable layers and parameters for Avatars 3.0
+- [Marker](https://github.com/VRLabs/Marker) - A marker for drawing anywhere with your avatar
+- [Player Tracker](https://github.com/hfcRed/Player-Tracker) - Tool which lets you select players and attach a Contact Tracker to them
+- [Among Us Follower](https://github.com/hfcRed/Among-Us-Follower) - A very simple tp setupu self contained crewmate / avatar pet follower
 
 **Quest**
 
@@ -138,6 +143,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Tree It](https://www.evolved-software.com/treeit/treeit) - Free 3D tree generator with adjustable LOD
 - [Blender-xatlas](https://github.com/s-ilent/blender-xatlas) - Rough add-on for Blender allowing you to use Xatlas to unwrap and pack your uvs
 - [Unity CC0 textures importer](https://github.com/zigurous/unity-cc0textures-importer) - Import textures directly from CC0Textures.com into Unity
+- [Dread Scripts](https://github.com/Dreadrith/DreadScripts) - Variety of Scripts and Tools for improving Unity workflow, usually focused on VRChat
+
 
 ---
 
@@ -202,6 +209,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [liltoon](https://github.com/lilxyzw/lilToon) - Feature-rich shaders for avatars
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [LTCGI](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm
+- [Thry Editor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
+- [orels Unity Shaders](https://shaders.orels.sh/docs/orl-shader-family - Unity BIRP Shaders of varied quality
+
 
 ---
 
