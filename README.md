@@ -69,6 +69,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Marker](https://github.com/VRLabs/Marker) - A marker for drawing anywhere with your avatar
 - [Player Tracker](https://github.com/hfcRed/Player-Tracker) - Tool which lets you select players and attach a Contact Tracker to them
 - [Among Us Follower](https://github.com/hfcRed/Among-Us-Follower) - A very simple tp setupu self contained crewmate / avatar pet follower
+- [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
 
 **Quest**
 
