@@ -11,6 +11,7 @@ One-stop shop for people interested in developing content for VRchat. For all th
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
 - [VRcat](https://vrcat.club) - Unofficial, community-run forum focusing on VRChat
 - [VRCLibrary](https://vrclibrary.com/wiki/) - A wiki for VRChat creators to learn, share and collaborate. Anyone can contribute!
+- [VRChat Creator Companion](https://vcc.docs.vrchat.com/) - New official entry point for creating things for VRChat
 
 ## Tutorials
 
@@ -153,6 +154,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 - [Getting started with Udon](https://ask.vrchat.com/t/getting-started-with-udon/80) - **Official** and best place to start
 - [UdonSharp](https://github.com/vrchat-community/UdonSharp) - a compiler for compiling C# to Udon assembly
+- [USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp
+- [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
+- [ProTV](https://architechvr.gumroad.com/l/protv) - Ready-made udon video player solution 
 - [Contextual Buttons](https://www.youtube.com/watch?v=01a5qO60qlo) - Breakdown of a more complex usage of buttons by Vowgan
 - [Basic Buttons](https://www.youtube.com/watch?v=GWv3zloRWY4) - Getting a simple button toggle working by Vowgan
 - [Jumping and PlayerMods](https://www.youtube.com/watch?v=OventaglGCY) - Jumping and modifying the player's movement speed by Vowgan
@@ -161,7 +165,6 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Udon Toolkit](https://github.com/orels1/UdonToolkit) - Purpose-built Udon Behaviours and tools to make your own
 - [Haptic Slider and Switch](https://twitter.com/Yodokor0/status/1317352332175134722) - Udon script to add haptics to sliders and buttons
 - [VRChat 8ball](https://github.com/FairlySadPanda/vrcbce) - Udon 8 ball pool game / physics engine
-- [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
 - [Hyakuashi Udon Motion Recorder HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-) - Makes HumanoidAnimation from recorded motion via log file
 - [Skipping Stones](https://github.com/jokerIsPunk/skipping-stones/releases) - Stones that skip on the surface of water when thrown.
 - [Double Jump](https://gitlab.com/-/snippets/2125069) - Snippet for a simple double jump system
@@ -174,6 +177,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [UdonExplorer](https://github.com/Varneon/UdonExplorer) - Unity Editor extension for easily exploring all UdonBehaviours in your Unity scene
 - [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets for professional stage lighting
 - [Udon Splines](https://github.com/BocuD/Udon-Catmull-Rom-Splines) - A simple spline system that works with Udon
+- [Udon Audiolink](https://github.com/llealloo/vrc-udon-audio-link) - Audio reactive prefabs for VRChat written in UdonSharp
+
+
 
 ---
 
@@ -204,15 +210,14 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Fake lights](https://gitlab.com/s-ilent/fake-lights) - Adds fake lighting and volumetric fog to the area made by s-ilent
 - [Skyprobe Fog](https://gitlab.com/s-ilent/skyprobe-fog) - Area fog that uses the reflection probe to create fake atmospheric scattering
 - [Crispy Foliage](https://gitlab.com/s-ilent/crispy-foliage) - Plants that blow in the wind
-- [orels1 shaders](https://github.com/orels1/orels1-Unity-Shaders) - Unity BIRP Shaders of varied quality
 - [glsl2hlsl](https://github.com/pema99/glsl2hlsl) - WIP shadertoy to Unity converter
 - [Shader knowledge](https://github.com/pema99/shader-knowledge) - Trying to document obscure technical VRChat knowledge abotu shaders
 - [liltoon](https://github.com/lilxyzw/lilToon) - Feature-rich shaders for avatars
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [LTCGI](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm
 - [Thry Editor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
-- [orels Unity Shaders](https://shaders.orels.sh/docs/orl-shader-family - Unity BIRP Shaders of varied quality
-
+- [orels Unity Shaders](https://shaders.orels.sh/docs/orl-shader-family) - Unity BIRP Shaders of varied quality
+- [Hekky Shaders](https://github.com/hyblocker/hekky-shaders) - Free shaders for world creation
 
 ---
 
