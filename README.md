@@ -6,10 +6,10 @@ One-stop shop for people interested in developing content for VRchat. For all th
 ## General
 
 - [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!	
+- [VRChat Ask Forums](https://ask.vrchta.com) - **Official** VRChat forum
 - [VRC prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
 - [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
-- [VRcat](https://vrcat.club) - Unofficial, community-run forum focusing on VRChat
 - [VRCLibrary](https://vrclibrary.com/wiki/) - A wiki for VRChat creators to learn, share and collaborate. Anyone can contribute!
 - [VRChat Creator Companion](https://vcc.docs.vrchat.com/) - New official entry point for creating things for VRChat
 
