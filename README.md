@@ -1,13 +1,20 @@
 # awesome-vrchat [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-One-stop shop for people interested in developing content for VRchat. For all the **official** documentation please go here: **<https://docs.vrchat.com/docs>**
+One-stop shop for people interested in developing content for VRChat.
 
 
 ## General
 
-- [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!	
+### Official
+
+- [Official VRChat documentation](https://docs.vrchat.com) - **Official** VRChat documentation!
+- [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!
+- [VRChat Creator Companion Documentation](https://vcc.docs.vrchat.com/) - **Official** documentation for the VRChat Creator Companion.
 - [VRChat Ask Forums](https://ask.vrchta.com) - **Official** VRChat forum
-- [VRC prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
+
+### Community
+
+- [VRC Prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
 - [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
 - [Japanese VRchat Wiki](https://vrcworld.wiki.fc2.com) - Unofficial wiki maintained by japanese VRchat community
 - [VRCLibrary](https://vrclibrary.com/wiki/) - A wiki for VRChat creators to learn, share and collaborate. Anyone can contribute!
