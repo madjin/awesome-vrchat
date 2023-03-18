@@ -153,7 +153,9 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Blender-xatlas](https://github.com/s-ilent/blender-xatlas) - Rough add-on for Blender allowing you to use Xatlas to unwrap and pack your uvs
 - [Unity CC0 textures importer](https://github.com/zigurous/unity-cc0textures-importer) - Import textures directly from CC0Textures.com into Unity
 - [Dread Scripts](https://github.com/Dreadrith/DreadScripts) - Variety of Scripts and Tools for improving Unity workflow, usually focused on VRChat
-
+- [Avatar Performance Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) - Avatar evaluator and VRAM checker
+- [Resource Checker](https://assetstore.unity.com/packages/tools/utilities/resource-checker-3224) - Designed to help bring visibility to resource use in your scenes
+- [Blend Tree Builder](https://github.com/Dreadrith/BlendTreeBuilder) - Unity tool to make VRC Blendtree creation easier and faster
 
 ---
 
@@ -185,8 +187,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Collection of HLSL shaders, UdonSharp scripts, 3D models, prefabs, and assets for professional stage lighting
 - [Udon Splines](https://github.com/BocuD/Udon-Catmull-Rom-Splines) - A simple spline system that works with Udon
 - [Udon Audiolink](https://github.com/llealloo/vrc-udon-audio-link) - Audio reactive prefabs for VRChat written in UdonSharp
-
-
+- [Smart Object Sync](https://github.com/MMMaellon/SmartObjectSync) - Drop-in replacement for VRC_ObjectSync that allows for better syncing of objects
+- [Swim System 2.0](https://hirabiki.booth.pm/items/2127684) - Swim and dive underwater in pools, ponds, hot springs, deep sea, or any body of water
 
 ---
 
@@ -195,6 +197,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat OSC for Avatars](https://hello.vrchat.com/blog/vrchat-osc-for-avatars) - Announcement post and [github](https://github.com/vrchat-community/osc) links to discussions / bug reports
 - [OSCKeyboard](https://github.com/ShadowForests/OSCKeyboard) - Enable keyboard typing in VRChat using KillFrenzy's VRC Avatar Keyboard
 - [node-osc](https://github.com/vnoise/node-osc) - very basic OSC client (so far) implementation based heavily on pyOSC
+- [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for ive transcription / translation in VRChat and Overlays
 
 ---
 
