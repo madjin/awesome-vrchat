@@ -40,6 +40,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
 - [Game Assets in Blender](https://www.youtube.com/watch?v=j3G9zn4cu-U) - A complete workflow video tutorial for modeling game assets in Blender
 - [2uts](https://2uts.com/) - Website that has thousands of free video tutorials
+- [You should probably be using Cinemachine](https://blog.orels.sh/you-should-probably-be-using-cinemachine/) - How to create virtual productions with almost 0 scripting
 
 ---
 
@@ -78,6 +79,9 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Player Tracker](https://github.com/hfcRed/Player-Tracker) - Tool which lets you select players and attach a Contact Tracker to them
 - [Among Us Follower](https://github.com/hfcRed/Among-Us-Follower) - A very simple tp setupu self contained crewmate / avatar pet follower
 - [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
+- [Modular Avatar](https://modular-avatar.nadena.dev/) - Drag-and-Drop Avatar Assembly
+- [lil Avatar Utilities](https://github.com/lilxyzw/lilAvatarUtils) - Utilities for avatar modification
+
 
 **Quest**
 
@@ -198,6 +202,11 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [OSCKeyboard](https://github.com/ShadowForests/OSCKeyboard) - Enable keyboard typing in VRChat using KillFrenzy's VRC Avatar Keyboard
 - [node-osc](https://github.com/vnoise/node-osc) - very basic OSC client (so far) implementation based heavily on pyOSC
 - [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for ive transcription / translation in VRChat and Overlays
+- [VRC Discord OSC](https://github.com/uzair-ashraf/vrc-osc-discord-band) - python app for VRChat players to receive discord notifications on their avatars 
+- [VRCOSC](https://github.com/VolcanicArts/VRCOSC) -  Show heartrate, time, hardware stats, detect custom VRChat gestures, control Spotify, and more via OSC
+- [TTS Voice Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Text to Speech, song now playing
+  - [VRC OSC Scripts](https://github.com/cyberkitsune/vrc-osc-scripts) - Alternative OSC scripts for speech to text and audio now playing
+- [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - allow AV3 Avatars to interact with Vive SRanipal Eye and Lip Tracking SDK
 
 ---
 
@@ -248,7 +257,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Open Game Art](https://opengameart.org/) - Free to use assets including models and sprites
   - [Photo resources for making textures](https://opengameart.org/content/photo-resources-for-making-textures) - Make seamless textures
 - [Open source fonts](https://twitter.com/gontijodesign/status/1394624373823348737) - Twitter thread full of beautiful open source fonts
-- [Polygonal Mind Assets](https://www.polygonalmind.com/assets.html) - Free to use low-poly 3D models
+- [100 avatars](https://www.100avatars.com/) - Hundreds of CC0 avatars (FBX + VRM)
 - [Polyhaven](https://polyhaven.com/) - Public 3D Asset Library
 - [Soundbible](http://soundbible.com/) - Good place to find quick sound effects for free
 - [Sound archive](https://sonniss.com/gameaudiogdc) - Over 150GB of free sound effects, royalty-free and commercially usable
