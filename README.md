@@ -67,6 +67,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
 - [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
 - [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity
+- [d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) - aims to reduce skinned mesh & material count for VRC avatars 3.0
 - [VRC Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor
 - [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
@@ -81,7 +82,9 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
 - [Modular Avatar](https://modular-avatar.nadena.dev/) - Drag-and-Drop Avatar Assembly
 - [lil Avatar Utilities](https://github.com/lilxyzw/lilAvatarUtils) - Utilities for avatar modification
-
+- [Avatar 3.0 Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system
+- [VRCFury](https://github.com/VRCFury/VRCFury) -  Non-Destructive Tools for VRChat Avatars
+- [ComboGestureExpressions](https://hai-vr.github.io/combo-gesture-expressions-av3/) - Unity Editor tool that lets you attach face expressions to hand gestures
 
 **Quest**
 
@@ -92,6 +95,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Easy Quest Switch](https://github.com/JordoVR/EasyQuestSwitch) - Automate changes to components within a scene
 - [Make Your Game Run on Quest (GDC)](https://youtu.be/3T--5SdLdjE) - Tips on getting the most out of the Quest hardware
 - [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) - Convert Avatar for Quest
+- [Polytool for Unity](https://markcreator.gumroad.com/l/Polytool) - Helps with optimizing avatars within Unity
 
 ---
 
@@ -160,6 +164,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Avatar Performance Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) - Avatar evaluator and VRAM checker
 - [Resource Checker](https://assetstore.unity.com/packages/tools/utilities/resource-checker-3224) - Designed to help bring visibility to resource use in your scenes
 - [Blend Tree Builder](https://github.com/Dreadrith/BlendTreeBuilder) - Unity tool to make VRC Blendtree creation easier and faster
+- [Copy Bounding Box](https://jessycat92.gumroad.com/l/RQDoUj) - copy boundings from a SkinnedMeshRenderer to all objects within a GameObject Root
+- [Blender Asset Creation Toolset](https://github.com/mrven/Blender-Asset-Creation-Toolset) - Many Tools for Game Asset Creation
 
 ---
 
@@ -269,6 +275,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
 - [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
 - [The Base Mesh](https://thebasemesh.com/) - 100% free CC0 asset library updated weekly
+- [JustSleightly Notes](https://notes.sleightly.dev/) - WIP Knowledgebase for VRChat dev
 
 ---
 
