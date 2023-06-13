@@ -204,7 +204,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat OSC for Avatars](https://hello.vrchat.com/blog/vrchat-osc-for-avatars) - Announcement post and [github](https://github.com/vrchat-community/osc) links to discussions / bug reports
 - [OSCKeyboard](https://github.com/ShadowForests/OSCKeyboard) - Enable keyboard typing in VRChat using KillFrenzy's VRC Avatar Keyboard
 - [node-osc](https://github.com/vnoise/node-osc) - very basic OSC client (so far) implementation based heavily on pyOSC
-- [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for ive transcription / translation in VRChat and Overlays
+- [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for live transcription / translation in VRChat and Overlays
 - [VRC Discord OSC](https://github.com/uzair-ashraf/vrc-osc-discord-band) - python app for VRChat players to receive discord notifications on their avatars 
 - [VRCOSC](https://github.com/VolcanicArts/VRCOSC) -  Show heartrate, time, hardware stats, detect custom VRChat gestures, control Spotify, and more via OSC
 - [TTS Voice Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Text to Speech, song now playing
