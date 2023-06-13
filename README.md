@@ -223,7 +223,6 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [MKToonShader](https://assetstore.unity.com/packages/vfx/shaders/mk-toon-free-68972)
 - [Low-poly Shader](https://github.com/pavelkouril/unity-lowpoly-shader)
 - [WaterShader |  PanningOutline |  TextureOverlay | DistanceColorSwap | ScanLine](https://github.com/synlogic/Syns-Unity-Shaders)
-- [Genesis Hair Shader](http://standsurestudio.com/genesishair/)
 - [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
 - [ParticleCloud shaders](https://github.com/lukis101/ParticleCloudVRC) - Interactable shader-based particle system for VRChat/Unity
 - [Shaders](https://github.com/kayteh/shaders) - Big mishmash of reworked, original, and mixed shaders.
