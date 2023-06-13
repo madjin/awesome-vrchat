@@ -39,7 +39,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
 - [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
 - [Game Assets in Blender](https://www.youtube.com/watch?v=j3G9zn4cu-U) - A complete workflow video tutorial for modeling game assets in Blender
-- [2uts](https://2uts.com/) - Website that has thousands of free video tutorials
 - [You should probably be using Cinemachine](https://blog.orels.sh/you-should-probably-be-using-cinemachine/) - How to create virtual productions with almost 0 scripting
 
 ---
