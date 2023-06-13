@@ -235,7 +235,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [LTCGI](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm
 - [Thry Editor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
-- [orels Unity Shaders](https://shaders.orels.sh/docs/orl-shader-family) - Unity BIRP Shaders of varied quality
+- [orels Unity Shaders](https://github.com/orels1/orels-Unity-Shaders) - A collection of Unity shaders
 - [Hekky Shaders](https://github.com/hyblocker/hekky-shaders) - Free shaders for world creation
 
 ---
