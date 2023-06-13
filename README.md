@@ -217,7 +217,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 - [Shaderforge](https://acegikmo.com/shaderforge/) - Free node based shader editor that just went MIT license
 - [ShaderProject](https://github.com/ellioman/ShaderProject) - Container for all sorts of handy shaders in Unity3D
-- [Silent's Cel Shading Shader](https://vrcat.club/threads/silents-cel-shading-shader.84/) - Modfied toon shader
+- [Silent's Cel Shading Shader](https://github.com/s-ilent/scss) - Modfied toon shader
 - [CyberShader](https://vrcat.club/threads/sneps-cyber-shader-v2.66/)
 - [Glow Fade Effect](https://github.com/Shealynntate/Glow_Fade_Effect)
 - [Hologram Shader](https://github.com/andydbc/HologramShader)
