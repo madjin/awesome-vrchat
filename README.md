@@ -57,7 +57,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [VRC Avatar Tutorial (Japanese)](https://github.com/tuki9ko/vrc_avater_tutorial) - Japanese guide on making and uploading your own avatar
 - [VRC Avatar Tutorials (English)](https://vrcmods.com/tutorials) - Simple to follow video guides and short tutorials from vrcmods
 - [VRC Avatar Development](https://pastebin.com/RVFPhim0) - List of resources for MMD models and guides for making avatars
-- [lin Unity packages](https://github.com/oofdesu/lin-unity-packages) - Prefabs for avatars
 - [Quick Start Mixamo Guide](https://vrchat.fandom.com/wiki/Quick_Start_-_Mixamo_Avatar_Creation) - Slightly old article on making avatars with Mixamo
 - [Avatar Creation Tips](https://vrchat.fandom.com/wiki/Avatar_Creation) - Various tips and guides for customized avatars from a fan wiki
 - [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
