@@ -220,7 +220,6 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Silent's Cel Shading Shader](https://github.com/s-ilent/scss) - Modfied toon shader
 - [Glow Fade Effect](https://github.com/Shealynntate/Glow_Fade_Effect)
 - [Hologram Shader](https://github.com/andydbc/HologramShader)
-- [MKToonShader](https://assetstore.unity.com/packages/vfx/shaders/mk-toon-free-68972)
 - [Low-poly Shader](https://github.com/pavelkouril/unity-lowpoly-shader)
 - [WaterShader |  PanningOutline |  TextureOverlay | DistanceColorSwap | ScanLine](https://github.com/synlogic/Syns-Unity-Shaders)
 - [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
