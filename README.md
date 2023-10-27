@@ -39,7 +39,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
 - [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
 - [Game Assets in Blender](https://www.youtube.com/watch?v=j3G9zn4cu-U) - A complete workflow video tutorial for modeling game assets in Blender
-- [2uts](https://2uts.com/) - Website that has thousands of free video tutorials
 - [You should probably be using Cinemachine](https://blog.orels.sh/you-should-probably-be-using-cinemachine/) - How to create virtual productions with almost 0 scripting
 
 ---
@@ -58,7 +57,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [VRC Avatar Tutorial (Japanese)](https://github.com/tuki9ko/vrc_avater_tutorial) - Japanese guide on making and uploading your own avatar
 - [VRC Avatar Tutorials (English)](https://vrcmods.com/tutorials) - Simple to follow video guides and short tutorials from vrcmods
 - [VRC Avatar Development](https://pastebin.com/RVFPhim0) - List of resources for MMD models and guides for making avatars
-- [lin Unity packages](https://github.com/oofdesu/lin-unity-packages) - Prefabs for avatars
 - [Quick Start Mixamo Guide](https://vrchat.fandom.com/wiki/Quick_Start_-_Mixamo_Avatar_Creation) - Slightly old article on making avatars with Mixamo
 - [Avatar Creation Tips](https://vrchat.fandom.com/wiki/Avatar_Creation) - Various tips and guides for customized avatars from a fan wiki
 - [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
@@ -79,7 +77,6 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Marker](https://github.com/VRLabs/Marker) - A marker for drawing anywhere with your avatar
 - [Player Tracker](https://github.com/hfcRed/Player-Tracker) - Tool which lets you select players and attach a Contact Tracker to them
 - [Among Us Follower](https://github.com/hfcRed/Among-Us-Follower) - A very simple tp setupu self contained crewmate / avatar pet follower
-- [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
 - [Modular Avatar](https://modular-avatar.nadena.dev/) - Drag-and-Drop Avatar Assembly
 - [lil Avatar Utilities](https://github.com/lilxyzw/lilAvatarUtils) - Utilities for avatar modification
 - [Avatar 3.0 Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system
@@ -207,7 +204,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat OSC for Avatars](https://hello.vrchat.com/blog/vrchat-osc-for-avatars) - Announcement post and [github](https://github.com/vrchat-community/osc) links to discussions / bug reports
 - [OSCKeyboard](https://github.com/ShadowForests/OSCKeyboard) - Enable keyboard typing in VRChat using KillFrenzy's VRC Avatar Keyboard
 - [node-osc](https://github.com/vnoise/node-osc) - very basic OSC client (so far) implementation based heavily on pyOSC
-- [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for ive transcription / translation in VRChat and Overlays
+- [whispering](https://github.com/Sharrnah/whispering) - OpenAI's whisper with OSC and Websocket support for live transcription / translation in VRChat and Overlays
 - [VRC Discord OSC](https://github.com/uzair-ashraf/vrc-osc-discord-band) - python app for VRChat players to receive discord notifications on their avatars 
 - [VRCOSC](https://github.com/VolcanicArts/VRCOSC) -  Show heartrate, time, hardware stats, detect custom VRChat gestures, control Spotify, and more via OSC
 - [TTS Voice Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Text to Speech, song now playing
@@ -220,14 +217,11 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 - [Shaderforge](https://acegikmo.com/shaderforge/) - Free node based shader editor that just went MIT license
 - [ShaderProject](https://github.com/ellioman/ShaderProject) - Container for all sorts of handy shaders in Unity3D
-- [Silent's Cel Shading Shader](https://vrcat.club/threads/silents-cel-shading-shader.84/) - Modfied toon shader
-- [CyberShader](https://vrcat.club/threads/sneps-cyber-shader-v2.66/)
+- [Silent's Cel Shading Shader](https://github.com/s-ilent/scss) - Modfied toon shader
 - [Glow Fade Effect](https://github.com/Shealynntate/Glow_Fade_Effect)
 - [Hologram Shader](https://github.com/andydbc/HologramShader)
-- [MKToonShader](https://assetstore.unity.com/packages/vfx/shaders/mk-toon-free-68972)
 - [Low-poly Shader](https://github.com/pavelkouril/unity-lowpoly-shader)
 - [WaterShader |  PanningOutline |  TextureOverlay | DistanceColorSwap | ScanLine](https://github.com/synlogic/Syns-Unity-Shaders)
-- [Genesis Hair Shader](http://standsurestudio.com/genesishair/)
 - [Fake Glass](https://gitlab.com/s-ilent/fake-glass) - (ab)uses some Unity features to produce glass-like glass
 - [ParticleCloud shaders](https://github.com/lukis101/ParticleCloudVRC) - Interactable shader-based particle system for VRChat/Unity
 - [Shaders](https://github.com/kayteh/shaders) - Big mishmash of reworked, original, and mixed shaders.
@@ -241,7 +235,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Shadermotion](https://gitlab.com/lox9973/shadermotion) - Shader-based human pose encoder/decoder made by lox9973, stream mocap from VRChat
 - [LTCGI](https://github.com/PiMaker/ltcgi) - Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm
 - [Thry Editor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
-- [orels Unity Shaders](https://shaders.orels.sh/docs/orl-shader-family) - Unity BIRP Shaders of varied quality
+- [orels Unity Shaders](https://github.com/orels1/orels-Unity-Shaders) - A collection of Unity shaders
 - [Hekky Shaders](https://github.com/hyblocker/hekky-shaders) - Free shaders for world creation
 
 ---
@@ -272,8 +266,6 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Texture Ninja](https://texture.ninja/) - Textures that all belong on public domain (CC0)
 - [Ultimate Stylized nature](https://www.patreon.com/posts/67157089) - 60+  Lowpoly nature assets, with seamless textures and normal maps
 - [VRChat API](https://github.com/vrchatapi) - Unofficial VRChat documentation and collection of libraries
-- [VR Optimization Techniques](https://www.slideshare.net/digitalagen) - Useful slideshow on how to optimize your VR experience
-- [XR Artist Toolkit](http://www.xrartisttoolkit.com) - Extensive and curated list of resources for XR artists
 - [The Base Mesh](https://thebasemesh.com/) - 100% free CC0 asset library updated weekly
 - [JustSleightly Notes](https://notes.sleightly.dev/) - WIP Knowledgebase for VRChat dev
 
