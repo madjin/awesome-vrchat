@@ -82,6 +82,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [Avatar 3.0 Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system
 - [VRCFury](https://github.com/VRCFury/VRCFury) -  Non-Destructive Tools for VRChat Avatars
 - [ComboGestureExpressions](https://hai-vr.github.io/combo-gesture-expressions-av3/) - Unity Editor tool that lets you attach face expressions to hand gestures
+- [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
 
 **Quest**
 
