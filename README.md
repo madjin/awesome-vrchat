@@ -164,6 +164,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Blend Tree Builder](https://github.com/Dreadrith/BlendTreeBuilder) - Unity tool to make VRC Blendtree creation easier and faster
 - [Copy Bounding Box](https://jessycat92.gumroad.com/l/RQDoUj) - copy boundings from a SkinnedMeshRenderer to all objects within a GameObject Root
 - [Blender Asset Creation Toolset](https://github.com/mrven/Blender-Asset-Creation-Toolset) - Many Tools for Game Asset Creation
+- [VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
 
 ---
 
