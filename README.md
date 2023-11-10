@@ -269,7 +269,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [VRChat API](https://github.com/vrchatapi) - Unofficial VRChat documentation and collection of libraries
 - [The Base Mesh](https://thebasemesh.com/) - 100% free CC0 asset library updated weekly
 - [JustSleightly Notes](https://notes.sleightly.dev/) - WIP Knowledgebase for VRChat dev
-- [scoop-xrtools](https://github.com/babo4d/scoop-xrtools) - Scoop bucket and package recommendations for XR & VRChat
+- [xrtools](https://github.com/babo4d/xrtools) - Package management for XR/VRC with scoop, homebrew, VPM, and more
 
 ---
 
