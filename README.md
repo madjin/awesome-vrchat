@@ -10,7 +10,7 @@ One-stop shop for people interested in developing content for VRChat.
 - [Official VRChat documentation](https://docs.vrchat.com) - **Official** VRChat documentation!
 - [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!
 - [VRChat Creator Companion Documentation](https://vcc.docs.vrchat.com/) - **Official** documentation for the VRChat Creator Companion.
-- [VRChat Ask Forums](https://ask.vrchta.com) - **Official** VRChat forum
+- [VRChat Ask Forums](https://ask.vrchat.com) - **Official** VRChat forum
 
 ### Community
 
@@ -239,6 +239,8 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Thry Editor](https://github.com/Thryrallo/ThryEditor) - General Unity Shader Inspector/Editor with focus on vrchat
 - [orels Unity Shaders](https://github.com/orels1/orels-Unity-Shaders) - A collection of Unity shaders
 - [Hekky Shaders](https://github.com/hyblocker/hekky-shaders) - Free shaders for world creation
+- [Mochie Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - Free and paid versions of the defacto high quality VRChat world shader
+- [Poiyomi Shaders](https://www.poiyomi.com/) - Free and paid versions of the defacto VRChat avatar and world shader
 
 ---
 
