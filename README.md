@@ -46,7 +46,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 ### Avatars
 
 - [Creating Your First Avatar](https://docs.vrchat.com/docs/creating-your-first-avatar) - **Official** documentation and best quick start guide
-- [Whitelisted Avatar Components](https://docs.vrchat.com/docs/whitelisted-avatar-components) - **Official** documentation for components you can use with avatars
+- [Whitelisted Avatar Components](https://creators.vrchat.com/avatars/whitelisted-avatar-components/whitelisted-avatar-components) - **Official** documentation for components you can use with avatars
 - [Avatar Optimizing Tips](https://docs.vrchat.com/docs/avatar-optimizing-tips) - **Official** documentation on optimization
 - [Beginner guide to Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/avatars/intro-avatars.md) - Intro to Unity and uploading your first avatar
 - [Silent's free avatar model guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models) - covers the best freely available, properly licensed avatars + licenses Silent found
