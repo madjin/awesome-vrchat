@@ -212,6 +212,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [TTS Voice Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - Speech to Text to Speech, song now playing
   - [VRC OSC Scripts](https://github.com/cyberkitsune/vrc-osc-scripts) - Alternative OSC scripts for speech to text and audio now playing
 - [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - allow AV3 Avatars to interact with Vive SRanipal Eye and Lip Tracking SDK
+- [MagicChatbox](https://github.com/BoiHanny/vrcosc-magicchatbox) - OSC chatbox companion, manager, editor
 
 ---
 
