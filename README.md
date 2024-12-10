@@ -165,6 +165,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Copy Bounding Box](https://jessycat92.gumroad.com/l/RQDoUj) - copy boundings from a SkinnedMeshRenderer to all objects within a GameObject Root
 - [Blender Asset Creation Toolset](https://github.com/mrven/Blender-Asset-Creation-Toolset) - Many Tools for Game Asset Creation
 - [VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
+- [OyasumiVR](https://oyasumivr.raphii.co/) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more
 
 ---
 
