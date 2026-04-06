@@ -3,6 +3,7 @@
 One-stop shop for people interested in developing content for VRChat.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for VRChat development workflow orchestration, automated avatar management, and multi-agent coordination. MIT licensed.
 ## General
 
 ### Official
