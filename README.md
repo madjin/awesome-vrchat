@@ -11,6 +11,7 @@ One-stop shop for people interested in developing content for VRChat.
 - [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!
 - [VRChat Creator Companion Documentation](https://vcc.docs.vrchat.com/) - **Official** documentation for the VRChat Creator Companion.
 - [VRChat Ask Forums](https://ask.vrchat.com) - **Official** VRChat forum
+- [VRChat Wiki](https://wiki.vrchat.com) - **Official** VRChat Wiki
 
 ### Community
 
