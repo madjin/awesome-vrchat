@@ -173,6 +173,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 
 - [Getting started with Udon](https://ask.vrchat.com/t/getting-started-with-udon/80) - **Official** and best place to start
 - [UdonSharp](https://github.com/vrchat-community/UdonSharp) - a compiler for compiling C# to Udon assembly
+- [Udonite](https://github.com/Udonite/Udonite) - Compile ordinary Unity C# — generics, LINQ, structs, coroutines — straight to Udon assembly
 - [USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp
 - [Video player](https://hoshinolabs.booth.pm/items/2666275) - iwaSyncVideoPlayer [test world](https://www.vrchat.com/home/world/wrld_e879a97e-2b09-4ca0-ab64-2dca2b20c443)
 - [ProTV](https://architechvr.gumroad.com/l/protv) - Ready-made udon video player solution 
