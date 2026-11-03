@@ -69,6 +69,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [VRC Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor
 - [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
+- [Unitypackage to VRM](https://extractunitypackage.com/unitypackage-to-vrm) - Convert a humanoid avatar from a .unitypackage to VRM 1.0 in the browser, no Unity needed
 - [Avatar Image Reader](https://github.com/Miner28/AvatarImageReader/) - Encode chars from Internet as images for VRChat Udon avatars
 - [AvatarModifyTools](https://github.com/HhotateA/AvatarModifyTools) - Tools to help you modify your VRChat avatar in Unity
   - [TextureModifyTool](https://hhotatea.booth.pm/items/3103973) - Booth page of tools to help modify avatar
