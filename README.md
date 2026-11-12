@@ -113,6 +113,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 - [C4Dcenter](https://c4dcenter.com/material-library/) - Free 4K resolution PBR materials
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 - [Zulubo Sounds](https://github.com/zulubo/Zulubo-Sounds) - Free MIT License sound effects
+- [SFXMint](https://sfxmint.com/) - CC0 sound effects library (UI, footsteps, impacts, ambience), free for commercial use, no credit needed
 - [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
 
 ---
