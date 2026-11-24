@@ -166,6 +166,7 @@ Here is a list of free tools for creators to download and use on the side of VRC
 - [Blender Asset Creation Toolset](https://github.com/mrven/Blender-Asset-Creation-Toolset) - Many Tools for Game Asset Creation
 - [VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
 - [OyasumiVR](https://oyasumivr.raphii.co/) - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more
+- [VRChat Emoji Sprite Sheet Generator](https://spritesheet.dev/vrchat-emoji-spritesheet) - Free browser tool that turns a GIF into the 1024×1024 sprite sheet animated emoji use, named with the frame count and fps
 
 ---
 
